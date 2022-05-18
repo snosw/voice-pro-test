@@ -17,6 +17,7 @@ public class SoundInput : MonoBehaviour
     void Start()
     {
         refreshAndDetectMics();
+        Debug.Log("!!! README !!!\n In this exact order:\n1. Press T to refresh and detect mics\n2. Press R for push to talk\nIf done incorrectly no sound will be transmitted");
     }
 
     // Update is called once per frame

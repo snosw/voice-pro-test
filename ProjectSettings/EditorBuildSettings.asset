@@ -11,13 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JoinScreen.unity
     guid: ebb76e002ba1fe14cae820f3da9ce6be
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/FrostweepGames/VoicePro/Examples/VCP_DemoUI/VCP_DemoUI.unity
     guid: ce2cb076d1c4be6409b8fcf58e4e5a1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
     guid: e9017d5f96b9f09489b4b37e1d6eb914
   m_configObjects:

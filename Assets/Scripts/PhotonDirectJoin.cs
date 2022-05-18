@@ -22,8 +22,8 @@ public class PhotonDirectJoin : MonoBehaviourPunCallbacks
     }
 
     public override void OnJoinedRoom(){
-        PhotonNetwork.LoadLevel("Playground");
-        // PhotonNetwork.LoadLevel("SampleScene");
+        // PhotonNetwork.LoadLevel("Playground");
+        PhotonNetwork.LoadLevel("SampleScene");
     }
 
 }
